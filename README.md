@@ -7,4 +7,4 @@
 -  Find Training And Testing Accuracy.
 -  Perform L1 & L2 Regularization.(Ridge And Lasso)
 -  Perform Cross Validation.(Find Average Accuracy i.e Mean) 
--  
+
